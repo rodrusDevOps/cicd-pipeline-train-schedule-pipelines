@@ -1,4 +1,4 @@
-            - name: Run test on Autify for Web
+- name: Run test on Autify for Web
   # You may pin to the exact commit or the version.
   # uses: autifyhq/actions-web-test-run@a467d583f96440d53852875da474f8d196784385
   uses: autifyhq/actions-web-test-run@v2.7.2
